@@ -1,6 +1,6 @@
 # MirAI Tech
 
-Homepage: [https://miraitech.solutions](https://miraitech.solutions)
+Homepage: [https://miraitech.dev](https://miraitech.dev)
 
 GitHub: [https://github.com/MirAI-Tech-Dev](https://github.com/MirAI-Tech-Dev)
 
